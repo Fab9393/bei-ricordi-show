@@ -31,17 +31,17 @@ import Navbar from '../components/Navbar.vue'
 const members = [
   {
     name: 'Emma Quartullo',
-    bio: 'Artista e fondatrice, voce narrativa del progetto Bei Ricordi.',
+    bio: 'Artista e Attrice, voce narrativa del progetto Bei Ricordi, ecc.',
     photo: '/images/emma.png'
   },
   {
     name: 'Silvia Ignoto',
-    bio: 'Curatrice artistica e coordinatrice generale.',
+    bio: 'Curatrice artistica e coordinatrice generale, ecc.',
     photo: '/images/silvia.png'
   },
   {
-    name: 'Marcello',
-    bio: 'Responsabile tecnico e ideatore del concept scenico.',
+    name: 'Marcello Caporiccio',
+    bio: 'Responsabile tecnico e ideatore del concept scenico, ecc.',
     photo: '/images/marcello.png'
   }
 ]
